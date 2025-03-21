@@ -1,6 +1,7 @@
 # Language-specific LoRA
 
 Codes and scripts of our paper [Exploring Intrinsic Language-specific Subspaces in Fine-tuning Multilingual Neural Machine Translation](https://openreview.net/forum?id=xXN16BtjnL#discussion).
+We made modifications based on the Transformer architecture of Fairseq.
 
 ## Install fairseq & apex
 
